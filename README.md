@@ -29,4 +29,9 @@
 \-preprocessed\_samlples: 처리된 이미지 5장 저장
 
 \-README.md: 전처리 과정 설명
+-----------------------------------------------------
+*실습 내용
 
+이미지 처리 코드 작성: 특정색상(빨간색) 감지 및 필터링
+-원본사진: sample.jpg
+<img width="896" height="864" alt="실습내용" src="https://github.com/user-attachments/assets/92e0181a-8b3f-4594-87bc-e541d3acb05c" />
